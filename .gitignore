@@ -3,3 +3,6 @@ package.accept_keywords/*
 package.mask/*
 package.unmask/*
 package.use/*
+repo.postsync.d/example
+repos.conf/layman.conf
+savedconfig/*
