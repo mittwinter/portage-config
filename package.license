@@ -1,0 +1,10 @@
+>=app-emulation/virtualbox-bin-4.2.12 PUEL
+>=dev-java/oracle-jdk-bin-1.7.0.25 Oracle-BCLA-JavaSE
+>=dev-java/oracle-jre-bin-1.7.0.21 Oracle-BCLA-JavaSE
+>=media-libs/fdk-aac-0.1.3 FraunhoferFDK
+>=media-sound/neroaac-1.5.1 Nero-AAC-EULA
+>=net-im/skype-4.2.0.11 skype-4.0.0.7-copyright
+>=sci-geosciences/googleearth-7.1.2.2041 googleearth
+>=sci-misc/mendeleydesktop-1.13.1 Mendeley-terms
+>=www-client/google-chrome-35.0.1916.153_p1 google-chrome
+>=www-plugins/adobe-flash-11.2.202.285 AdobeFlash-11.x
