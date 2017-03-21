@@ -1,3 +1,3 @@
 [submodule "patches"]
 	path = patches
-	url = git@lab.mroot.net:mittwinter/portage-config-patches.git
+	url = git@lab.wgnr.io:mittwinter/portage-config-patches.git
