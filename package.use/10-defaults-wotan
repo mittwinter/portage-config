@@ -1,0 +1,4 @@
+dev-db/mysql-connector-c++ debug examples
+dev-lang/php apache2 bcmath cgi curl
+sci-visualization/gnuplot doc examples latex qt5
+sci-visualization/qtiplot doc latex
