@@ -1,0 +1,32 @@
+app-admin/conky hddtemp iostats nvidia
+app-arch/p7zip -wxwidgets
+app-backup/backintime qt5
+app-editors/gvim cscope netbeans python
+app-emulation/wine -pipelight
+app-misc/tracker ffmpeg firefox-bookmarks thunderbird
+app-office/libreoffice java
+app-text/evince dvi
+dev-java/oracle-jre-bin nsplugin javafx
+dev-util/cmake qt5
+dev-vcs/git tk
+>=gnome-base/nautilus-3.2.1 sendto
+gnome-extra/gnome-dvb-daemon totem
+mail-client/thunderbird ldap lightning
+media-gfx/sane-backends -sane_backends_* sane_backends_genesys
+media-gfx/xsane gimp ocr postscript
+media-sound/amarok cdda lastfm embedded
+media-sound/clementine googledrive lastfm mtp
+media-sound/banshee youtube
+media-sound/qtscrobbler qt5
+media-video/avidemux qt5
+media-video/totem -flash -nsplugin
+media-video/vlc gnutls qt5 rtsp
+net-analyzer/wireshark -gtk2 gtk3 -qt4
+net-im/empathy sendto -v4l
+net-im/telepathy-connection-managers icq irc jabber sip
+net-irc/quassel -crypt -server webkit
+net-misc/networkmanager connection-sharing -dhclient dhcpcd -gnutls
+net-wireless/gnome-bluetooth sendto
+net-wireless/wpa_supplicant ap
+sys-block/gparted btrfs dmraid fat hfs jfs mdadm ntfs -reiser4 reiserfs xfs
+www-client/firefox hwaccel linguas_de linguas_en linguas_en_US -pgo
