@@ -1,0 +1,30 @@
+app-backup/bup doc web
+app-editors/vim cscope python
+app-emulation/qemu usbredir
+app-misc/powerline tmux vim zsh
+app-portage/layman darcs mercurial subversion sync-plugin-portage
+app-text/texlive extra graphics science
+app-vim/vim-latex python
+dev-db/mariadb client-libs
+dev-lang/ghc binary
+dev-util/cmake ncurses
+dev-vcs/git subversion
+dev-vcs/git-annex -android -assistant -desktop-notify -feed inotify -pairing -quvi -s3 -tdfa -tahoe -testsuite -webapp -webapp-secure -webdav -xmpp
+games-misc/fortune-mod offensive
+mail-client/mutt gpg imap sidebar smtp
+media-gfx/pstoedit imagemagick plotutils
+media-libs/freetype auto-hinter
+media-sound/abcde cdparanoia musicbrainz opus replaygain
+net-analyzer/tcpdump -samba # disable to avoid possible buffer overflows (as stated in einfo)
+net-dns/avahi utils
+net-misc/dhcp -client
+net-misc/unison -gtk
+net-proxy/privoxy threads
+net-vpn/openvpn passwordsave
+net-vpn/tor threads
+sys-apps/portage python3
+sys-libs/glibc debug
+sys-kernel/genkernel cryptsetup dmraid mdadm
+sys-kernel/genkernel-next cryptsetup dmraid mdadm -plymouth
+sys-kernel/gentoo-sources symlink
+sys-process/htop oom
