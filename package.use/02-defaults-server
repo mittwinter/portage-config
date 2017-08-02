@@ -1,0 +1,21 @@
+app-admin/tripwire tools
+app-antivirus/clamav clamdtop
+app-emulation/libvirt lvm virt-network
+app-emulation/qemu spice usbredir
+app-office/libreoffice -bluetooth -branding -cups -eds -gnome -gstreamer -gtk -gtk3 -kde -telepathy
+dev-lang/php bcmath cgi curl exif fpm gd mysql mysqli sqlite tidy
+dev-lang/python sqlite
+dev-vcs/git cgi highlight
+mail-filter/spamassassin cron doc mysql
+mail-mta/exim dkim -dmarc dovecot-sasl exiscan-acl -gnutls maildir -spf -syslog
+net-im/bitlbee gnutls libevent oscar otr twitter xmpp
+net-im/prosody libevent mysql sqlite
+net-irc/quassel postgres syslog
+net-libs/gnutls tools
+net-mail/dovecot managesieve sieve
+sys-apps/portage python3
+mail-filter/rspamd fann pcre2
+sys-firmware/intel-microcode split-ucode
+sys-kernel/gentoo-sources symlink
+www-servers/lighttpd fam libev -memcached mysql php webdav
+www-servers/apache threads APACHE2_MODULES: auth_digest http2 macro proxy proxy_fcgi proxy_http proxy_wstunnel remoteip APACHE2_MPMS: event
