@@ -6,6 +6,7 @@ app-office/libreoffice -bluetooth -branding -cups -eds -gnome -gstreamer -gtk -g
 dev-lang/php bcmath cgi curl exif fpm gd mysql mysqli sqlite tidy
 dev-lang/python sqlite
 dev-vcs/git cgi highlight
+mail-client/roundcube enigma
 mail-filter/spamassassin cron doc mysql
 mail-mta/exim dkim -dmarc dovecot-sasl exiscan-acl -gnutls maildir -spf -syslog
 net-im/bitlbee gnutls libevent oscar otr twitter xmpp
