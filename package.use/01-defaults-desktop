@@ -24,7 +24,7 @@ media-video/vlc gnutls qt5 rtsp
 net-analyzer/wireshark -gtk2 gtk3 -qt4
 net-im/empathy sendto -v4l
 net-im/telepathy-connection-managers icq irc jabber sip
-net-irc/quassel -crypt -server webkit
+net-irc/quassel -crypt -server -syslog webkit
 net-misc/networkmanager connection-sharing -dhclient dhcpcd -gnutls
 net-wireless/gnome-bluetooth sendto
 net-wireless/wpa_supplicant ap
