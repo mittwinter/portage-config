@@ -13,7 +13,7 @@ dev-vcs/git tk
 >=gnome-base/nautilus-3.2.1 sendto
 gnome-extra/gnome-dvb-daemon totem
 mail-client/thunderbird ldap lightning
-media-gfx/sane-backends -sane_backends_* sane_backends_genesys
+media-gfx/sane-backends -sane_backends_* sane_backends_canon_dr sane_backends_genesys
 media-gfx/xsane gimp ocr postscript
 media-sound/amarok cdda lastfm embedded
 media-sound/clementine googledrive lastfm mtp
