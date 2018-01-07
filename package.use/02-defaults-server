@@ -11,7 +11,7 @@ mail-filter/spamassassin cron doc mysql
 mail-mta/exim dkim -dmarc dovecot-sasl exiscan-acl -gnutls maildir -spf -syslog
 net-im/bitlbee gnutls libevent oscar otr twitter xmpp
 net-im/prosody libevent mysql sqlite
-net-irc/quassel postgres syslog
+net-irc/quassel server postgres syslog
 net-libs/gnutls tools
 net-mail/dovecot managesieve sieve
 sys-apps/portage python3
