@@ -17,7 +17,7 @@ media-libs/freetype auto-hinter
 media-sound/abcde cdparanoia musicbrainz opus replaygain
 net-analyzer/tcpdump -samba # disable to avoid possible buffer overflows (as stated in einfo)
 net-dns/avahi utils
-net-misc/dhcp -client
+net-misc/dhcp client -server
 net-misc/unison -gtk
 net-proxy/privoxy threads
 net-vpn/openvpn passwordsave
