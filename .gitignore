@@ -1,8 +1,7 @@
 make.profile
 package.accept_keywords/*
-package.mask/*
+package.mask/local-*
 package.unmask/*
 package.use/[2-9]*
 repo.postsync.d/example
-repos.conf/layman.conf
 savedconfig/*
