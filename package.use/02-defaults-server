@@ -18,5 +18,6 @@ sys-apps/portage python3
 mail-filter/rspamd fann pcre2
 sys-firmware/intel-microcode split-ucode
 sys-kernel/gentoo-sources symlink
+www-apps/mediawiki imagemagick mysql
 www-servers/lighttpd fam libev -memcached mysql php webdav
 www-servers/apache threads APACHE2_MODULES: auth_digest http2 macro proxy proxy_fcgi proxy_http proxy_wstunnel remoteip APACHE2_MPMS: event
