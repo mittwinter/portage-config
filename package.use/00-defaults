@@ -11,7 +11,7 @@ dev-util/cmake ncurses
 dev-vcs/git subversion
 dev-vcs/git-annex -android -assistant -desktop-notify -feed inotify -pairing -quvi -s3 -tdfa -tahoe -testsuite -webapp -webapp-secure -webdav -xmpp
 games-misc/fortune-mod offensive
-mail-client/mutt -crypt doc gpgme imap sidebar sasl smtp lmdb -berkdb -gdbm
+mail-client/mutt -crypt doc gpgme imap sasl sidebar slang smtp lmdb -berkdb -gdbm
 media-gfx/pstoedit imagemagick plotutils
 media-libs/freetype auto-hinter
 media-sound/abcde cdparanoia musicbrainz opus replaygain
