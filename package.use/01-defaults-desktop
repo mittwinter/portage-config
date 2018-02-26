@@ -5,7 +5,7 @@ app-backup/backintime qt5
 app-editors/gvim cscope netbeans python
 app-emulation/wine -pipelight
 app-misc/tracker ffmpeg firefox-bookmarks thunderbird
-app-office/libreoffice java
+app-office/libreoffice cups gtk java pdfimport vlc
 app-text/evince dvi
 dev-java/oracle-jre-bin nsplugin javafx
 dev-util/cmake qt5
