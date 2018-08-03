@@ -7,6 +7,7 @@ app-text/texlive extra graphics science
 app-vim/vim-latex python
 dev-db/mariadb client-libs
 dev-lang/ghc binary
+dev-python/fabric fab2
 dev-util/cmake ncurses
 dev-vcs/git subversion
 dev-vcs/git-annex -android -assistant -desktop-notify -feed inotify -pairing -quvi -s3 -tdfa -tahoe -testsuite -webapp -webapp-secure -webdav -xmpp
