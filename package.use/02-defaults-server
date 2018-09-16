@@ -1,8 +1,8 @@
 app-admin/tripwire tools
 app-antivirus/clamav clamdtop
-app-backup/bup -doc -web
+app-backup/bup -doc web
 app-emulation/libvirt lvm virt-network
-app-emulation/qemu spice usbredir
+app-emulation/qemu spice usbredir virtfs
 app-office/libreoffice -bluetooth -branding -cups -eds -gnome -gstreamer -gtk -gtk3 -kde -telepathy
 dev-lang/php bcmath cgi curl exif fpm gd mysql mysqli sqlite tidy
 dev-lang/python sqlite
