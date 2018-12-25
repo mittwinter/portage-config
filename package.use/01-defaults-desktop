@@ -27,7 +27,7 @@ net-analyzer/wireshark -gtk2 gtk3 -qt4
 net-im/empathy sendto -v4l
 net-im/telepathy-connection-managers icq irc jabber sip
 net-irc/quassel -crypt -server -syslog webkit
-net-misc/networkmanager connection-sharing -dhclient dhcpcd -gnutls
+net-misc/networkmanager connection-sharing dhclient -dhcpcd -gnutls
 net-wireless/gnome-bluetooth sendto
 net-wireless/wpa_supplicant ap
 sys-block/gparted btrfs dmraid fat hfs jfs mdadm ntfs -reiser4 reiserfs xfs
