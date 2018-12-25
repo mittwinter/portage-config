@@ -1,5 +1,6 @@
 app-admin/conky hddtemp iostats nvidia
 app-admin/keepassxc autotype yubikey
+app-admin/pass dmenu
 app-arch/p7zip -wxwidgets
 app-backup/backintime qt5
 app-editors/gvim cscope netbeans python
